@@ -21,3 +21,5 @@ Monster Hunter
 
 #깃허브링크
 https://github.com/scsar/MonsterHunter
+
+발표 자료 : https://www.miricanvas.com/v/13ikuvk (미리캔버스)
